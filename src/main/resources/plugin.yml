@@ -1,0 +1,11 @@
+name: EndPortalMiner
+version: ${project.version}
+main: net.megaplanet.endportalminer.EndPortalMiner
+api-version: 1.13
+authors: [PatoTheBest]
+depend: [ProtocolLib]
+description: Plugin to allow players to mine end portal blocks
+commands:
+  epmr:
+    description: Reloads the plugin
+    permission: endportalminer.reload

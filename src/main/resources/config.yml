@@ -1,0 +1,13 @@
+# Mining times in ticks
+# 20 ticks is 1 second
+mining-times:
+  WOODEN_PICKAXE: 500
+  STONE_PICKAXE: 300
+  IRON_PICKAXE: 200
+  GOLDEN_PICKAXE: 200
+  DIAMOND_PICKAXE: 120
+  NETHERITE_PICKAXE: 100
+
+# Actionbar prefix for when player is mining block
+messages:
+  mining: "Minando..."
