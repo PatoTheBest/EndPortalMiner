@@ -29,7 +29,7 @@ Permission: endportalminer.reload
 
 ### Install
 
-1. Download plugin from the releases section
+1. Download plugin from the [releases section](https://github.com/PatoTheBest/EndPortalMiner/releases)
 2. Put it in your plugins folder
 3. Start the server, edit the config to your liking
 4. Enjoy :)
